@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Incident update">ee326ee6db2c10104a1861ca0b9619d2</data_item>
+        <dependency_fields/>
+        <item_view_json/>
+        <name>Incident update detail item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-06 09:59:43</sys_created_on>
+        <sys_id>61632e2adb2c10104a1861ca0b961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident update detail item view</sys_name>
+        <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
+        <sys_update_name>sys_sg_item_view_61632e2adb2c10104a1861ca0b961928</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 09:59:43</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=61632e2adb2c10104a1861ca0b961928"/>
+</record_update>
