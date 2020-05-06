@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <default>false</default>
+        <description/>
+        <icon display_value="Star - Purple">5d55877eff061300f1f2883b73e11c0d</icon>
+        <name>Incident update</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-06 09:20:26</sys_created_on>
+        <sys_id>5d5a9e22db2c10104a1861ca0b9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident update</sys_name>
+        <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
+        <sys_update_name>sys_sg_application_5d5a9e22db2c10104a1861ca0b9619c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 09:20:26</sys_updated_on>
+    </sys_sg_application>
+    <sys_translated_text action="delete_multiple" query="documentkey=5d5a9e22db2c10104a1861ca0b9619c7"/>
+</record_update>

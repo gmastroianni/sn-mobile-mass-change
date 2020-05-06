@@ -14,13 +14,11 @@
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>Arnoud.Kooi</sys_created_by>
         <sys_created_on>2019-02-16 19:07:30</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>b135f0234fe367009881c5c18110c796</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>mass_update_finish_change</sys_name>
         <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
         <sys_update_name>sys_sg_write_back_action_item_b135f0234fe367009881c5c18110c796</sys_update_name>
         <sys_updated_by>Arnoud.Kooi</sys_updated_by>
@@ -30,4 +28,5 @@
         <type>script</type>
         <use_current_record_as_condition>false</use_current_record_as_condition>
     </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b135f0234fe367009881c5c18110c796"/>
 </record_update>

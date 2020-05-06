@@ -8,17 +8,16 @@
         <sys_class_name>sys_sg_item_view</sys_class_name>
         <sys_created_by>Arnoud.Kooi</sys_created_by>
         <sys_created_on>2019-02-16 18:13:27</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>93e8a4e34fa367009881c5c18110c755</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>CI Queue item view</sys_name>
         <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
         <sys_update_name>sys_sg_item_view_93e8a4e34fa367009881c5c18110c755</sys_update_name>
         <sys_updated_by>Arnoud.Kooi</sys_updated_by>
         <sys_updated_on>2019-02-16 20:22:07</sys_updated_on>
         <ui_styles/>
     </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=93e8a4e34fa367009881c5c18110c755"/>
 </record_update>
