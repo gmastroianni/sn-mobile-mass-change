@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder">
     <sys_sg_folder action="INSERT_OR_UPDATE">
-        <application display_value="Incident update">5d5a9e22db2c10104a1861ca0b9619c7</application>
+        <application display_value="Case update">5d5a9e22db2c10104a1861ca0b9619c7</application>
         <name/>
         <order>1</order>
         <sys_class_name>sys_sg_folder</sys_class_name>
