@@ -2,7 +2,7 @@
     <sys_sg_details_screen action="INSERT_OR_UPDATE">
         <application_roles/>
         <available_offline>false</available_offline>
-        <data_item display_value="Incident update">ee326ee6db2c10104a1861ca0b9619d2</data_item>
+        <data_item display_value="Core case queue">ee326ee6db2c10104a1861ca0b9619d2</data_item>
         <description/>
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>

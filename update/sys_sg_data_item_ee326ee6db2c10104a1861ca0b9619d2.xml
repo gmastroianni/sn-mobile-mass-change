@@ -3,23 +3,23 @@
         <condition_type>declarative</condition_type>
         <description/>
         <group_by/>
-        <name>Incident update</name>
-        <query_condition table="incident">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        <name>Core case queue</name>
+        <query_condition table="sn_hr_core_case">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
         </query_condition>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-06 09:54:36</sys_created_on>
         <sys_id>ee326ee6db2c10104a1861ca0b9619d2</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Incident update</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Core case queue</sys_name>
         <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
         <sys_update_name>sys_sg_data_item_ee326ee6db2c10104a1861ca0b9619d2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-06 09:57:43</sys_updated_on>
-        <table>incident</table>
+        <sys_updated_on>2020-05-06 13:18:00</sys_updated_on>
+        <table>sn_hr_core_case</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=ee326ee6db2c10104a1861ca0b9619d2"/>
 </record_update>

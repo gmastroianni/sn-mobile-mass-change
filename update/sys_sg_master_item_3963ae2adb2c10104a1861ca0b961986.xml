@@ -4,7 +4,7 @@
         <condition_order/>
         <item_view display_value="Incident update item view">5963ae2adb2c10104a1861ca0b9619a9</item_view>
         <name>Master Item</name>
-        <screen display_value="Incident update">2563ae2adb2c10104a1861ca0b9619ad</screen>
+        <screen display_value="Core case update">2563ae2adb2c10104a1861ca0b9619ad</screen>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-06 09:59:44</sys_created_on>
