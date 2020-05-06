@@ -18,23 +18,24 @@
 	
 })(input);]]></execution_script>
         <name>mass_update_add_incident</name>
-        <query_condition table="incident">number={{asset_tag}}^EQ<item endquery="false" field="number" goto="false" newquery="false" operator="=" or="false" value="{{asset_tag}}"/>
+        <query_condition table="incident">number={{asset_tag}}^stateNOT IN6,7,8^EQ<item endquery="false" field="number" goto="false" newquery="false" operator="=" or="false" value="{{asset_tag}}"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="6,7,8"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </query_condition>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-06 09:28:45</sys_created_on>
         <sys_id>3b4c5aa2db2c10104a1861ca0b9619bb</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>mass_update_add_incident</sys_name>
         <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
         <sys_update_name>sys_sg_write_back_action_item_3b4c5aa2db2c10104a1861ca0b9619bb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-06 12:45:15</sys_updated_on>
+        <sys_updated_on>2020-05-06 13:07:36</sys_updated_on>
         <table>incident</table>
-        <template>caller_id=a2826bf03710200044e0bfc8bcbe5ded^EQ</template>
+        <template>state=6^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>false</use_current_record_as_condition>
     </sys_sg_write_back_action_item>
